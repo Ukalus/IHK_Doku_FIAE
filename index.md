@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "IHK Doku"
-  text: "Sammlung an informationen für die Abschlussprüfungen für Fachinformatiker"
+  text: "Informationen für die Abschlussprüfungen für Fachinformatiker"
   tagline: "Die Ausbildung ist schwer ..."
   actions:
     - theme: brand
       text: Abschlussprüfungen
-      link: /markdown-examples
+      link: /about
     - theme: alt
       text: Materialien
-      link: /api-examples
+      link: /materials
 
 features:
   - title: Feature A
