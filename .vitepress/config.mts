@@ -30,6 +30,13 @@ export default defineConfig({
         text: 'Abschlussprüfung Teil 2:',
         items: [
           { text: 'Prüfungsvorbereitung', link: 'teil2/pruefungsvorbereitung' },
+          { text: 'Annotations', link: 'teil2/Annotations' },
+          { text: 'ReST', link: 'teil2/ReST' },
+          { text: 'HTTP-Methoden', link: 'teil2/HTTP-Methoden' },
+          { text: 'Clean Code', link: 'teil2/CleanCode' },
+          { text: 'Blackbox testing', link: 'teil2/BlackboxTesting' },
+          { text: 'Whitebox testing', link: 'teil2/WhiteboxTesting' },
+          { text: 'Dependency Injection', link: 'teil2/DependencyInjection' },
         ]
       }
     ],

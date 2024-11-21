@@ -1,0 +1,3 @@
+## Single Responsibility Principle (SRP)
+
+Bei SRP geht es darum das eine Klasse immer nur eine Sache tun sollte und diese gut, ein beispiel für eine Implementation die diesem prinzip folgt wäre eine Klasse die Sowohl Das frontend Anzeigt, als auch Daten an die Datenbank sendet, hier sollte Spezialisiert werden und eine Klasse für die verarbeitung an das Backend und eine für das anzeigen des Frontends erstellt werden. 
